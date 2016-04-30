@@ -1,6 +1,6 @@
 {
   "name": "co-probe-image-size",
-  "version": "1.0.0",
+  "version": "0.6",
   "description": "co version of probe-image-size, fix read large image error problem",
   "main": "index.js",
   "scripts": {
