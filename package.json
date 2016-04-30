@@ -1,0 +1,30 @@
+{
+  "name": "co-probe-image-size",
+  "version": "1.0.0",
+  "description": "co version of probe-image-size, fix read large image error problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive -R spec --require should --harmony test/ --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncodingnow/co-probe-image-size.git"
+  },
+  "keywords": [
+    "co",
+    "image",
+    "imagesize"
+  ],
+  "author": "Jason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasoncodingnow/co-probe-image-size/issues"
+  },
+  "homepage": "https://github.com/jasoncodingnow/co-probe-image-size#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mocha": "^2.4.5",
+    "probe-image-size": "^1.0.6",
+    "should": "^8.3.1"
+  }
+}
