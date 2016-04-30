@@ -14,7 +14,7 @@ Example
 ```js
 var probe = require('co-probe-image-size');
 
-var dimensions = yield coImage.getSize("test-image-name.jpg");
+var dimensions = yield probe.getSize("test-image-name.jpg");
 console.log(dimensions);
 ```
 
