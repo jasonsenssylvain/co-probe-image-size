@@ -1,6 +1,6 @@
 {
   "name": "co-probe-image-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "co version of probe-image-size, fix read large image error problem",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,6 @@
   "homepage": "https://github.com/jasoncodingnow/co-probe-image-size#readme",
   "dependencies": {
     "co": "^4.6.0",
-
-    "probe-image-size": "^1.0.6",
-    "should": "^8.3.1"
+    "probe-image-size": "^1.0.6"
   }
 }
