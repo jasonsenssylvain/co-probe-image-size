@@ -8,6 +8,8 @@ Install
 npm install co-probe-image-size --save
 ```
 
+Oo, I need star: [here](https://github.com/jasoncodingnow/co-probe-image-size).
+
 Example
 -------
 
